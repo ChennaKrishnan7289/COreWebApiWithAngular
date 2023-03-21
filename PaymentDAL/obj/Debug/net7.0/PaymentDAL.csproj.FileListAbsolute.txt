@@ -1,0 +1,15 @@
+D:\MVC\PaymentTracker\PaymentDAL\bin\Debug\net7.0\PaymentDAL.deps.json
+D:\MVC\PaymentTracker\PaymentDAL\bin\Debug\net7.0\PaymentDAL.dll
+D:\MVC\PaymentTracker\PaymentDAL\bin\Debug\net7.0\PaymentDAL.pdb
+D:\MVC\PaymentTracker\PaymentDAL\bin\Debug\net7.0\PaymentBL.dll
+D:\MVC\PaymentTracker\PaymentDAL\bin\Debug\net7.0\PaymentBL.pdb
+D:\MVC\PaymentTracker\PaymentDAL\obj\Debug\net7.0\PaymentDAL.csproj.AssemblyReference.cache
+D:\MVC\PaymentTracker\PaymentDAL\obj\Debug\net7.0\PaymentDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\PaymentTracker\PaymentDAL\obj\Debug\net7.0\PaymentDAL.AssemblyInfoInputs.cache
+D:\MVC\PaymentTracker\PaymentDAL\obj\Debug\net7.0\PaymentDAL.AssemblyInfo.cs
+D:\MVC\PaymentTracker\PaymentDAL\obj\Debug\net7.0\PaymentDAL.csproj.CoreCompileInputs.cache
+D:\MVC\PaymentTracker\PaymentDAL\obj\Debug\net7.0\PaymentDAL.csproj.CopyComplete
+D:\MVC\PaymentTracker\PaymentDAL\obj\Debug\net7.0\PaymentDAL.dll
+D:\MVC\PaymentTracker\PaymentDAL\obj\Debug\net7.0\refint\PaymentDAL.dll
+D:\MVC\PaymentTracker\PaymentDAL\obj\Debug\net7.0\PaymentDAL.pdb
+D:\MVC\PaymentTracker\PaymentDAL\obj\Debug\net7.0\ref\PaymentDAL.dll

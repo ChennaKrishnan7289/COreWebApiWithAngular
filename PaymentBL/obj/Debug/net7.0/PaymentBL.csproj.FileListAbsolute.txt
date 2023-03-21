@@ -1,0 +1,12 @@
+D:\MVC\PaymentTracker\PaymentBL\bin\Debug\net7.0\PaymentBL.deps.json
+D:\MVC\PaymentTracker\PaymentBL\bin\Debug\net7.0\PaymentBL.dll
+D:\MVC\PaymentTracker\PaymentBL\bin\Debug\net7.0\PaymentBL.pdb
+D:\MVC\PaymentTracker\PaymentBL\obj\Debug\net7.0\PaymentBL.csproj.AssemblyReference.cache
+D:\MVC\PaymentTracker\PaymentBL\obj\Debug\net7.0\PaymentBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\PaymentTracker\PaymentBL\obj\Debug\net7.0\PaymentBL.AssemblyInfoInputs.cache
+D:\MVC\PaymentTracker\PaymentBL\obj\Debug\net7.0\PaymentBL.AssemblyInfo.cs
+D:\MVC\PaymentTracker\PaymentBL\obj\Debug\net7.0\PaymentBL.csproj.CoreCompileInputs.cache
+D:\MVC\PaymentTracker\PaymentBL\obj\Debug\net7.0\PaymentBL.dll
+D:\MVC\PaymentTracker\PaymentBL\obj\Debug\net7.0\refint\PaymentBL.dll
+D:\MVC\PaymentTracker\PaymentBL\obj\Debug\net7.0\PaymentBL.pdb
+D:\MVC\PaymentTracker\PaymentBL\obj\Debug\net7.0\ref\PaymentBL.dll
